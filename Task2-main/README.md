@@ -2,15 +2,11 @@
 
 *COMPANY: CODTECH IT SOLUTIONS
 
-"NAME: ANKIT SINGH
-
-"INTERN ID: CT08DK782
+"NAME: KONCHADA AMRUTHA VALLI
 
 "DOMAIN: FRONT END WEB DEVELOPMENT
 
 "DURATION: 8 WEEEKS
-
-"MENTOR: NEELA SANTOSH
 
 This project is a **full-stack real-time chat application** built as part of Task 2 for an internship assignment or coursework. The application provides a seamless and interactive messaging interface that allows users to exchange messages instantly over a WebSocket connection. The project is divided into two core parts:
 

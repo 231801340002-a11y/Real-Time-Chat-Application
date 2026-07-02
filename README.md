@@ -60,8 +60,3 @@ Support private messaging (DMs)
 
 Improve UI with Tailwind CSS or Material UI
 
-** output:
-
-Image
-
-Image

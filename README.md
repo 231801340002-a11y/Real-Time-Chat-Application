@@ -15,6 +15,7 @@ Backend (Node.js + Express + WebSocket)
 The main objective of this project is to demonstrate the implementation of real-time communication using modern web development technologies and understand full-stack development practices by integrating frontend and backend components into one cohesive system.
 
 🔧 Technologies Used
+
 ✅ Frontend:
 React.js – For building the dynamic and component-based user interface.
 HTML5/CSS3 – To structure and style the UI elements.
@@ -29,6 +30,8 @@ Visual Studio Code – Primary code editor used for both frontend and backend.
 Git & GitHub – Version control and repository hosting.
 PowerShell / Command Line – For terminal-based development and Git operations.
 Browser (Chrome/Edge) – For testing the user interface and functionality.
+
+
 📁 Project Structure
 Task2/ │ ├── frontendchat/ # React frontend for chat interface │ ├── public/ │ └── src/ │ ├── App.js # Main UI logic and WebSocket integration │ ├── Chat.js # Chat component │ ├── index.js # Entry point │ ├── backendchat/ # Node.js backend with WebSocket server │ ├── server.js # Express + WebSocket logic │ └── package.json # Dependencies and scripts │ └── README.md # Project documentation (you’re reading it!) 🚀 How It Works The user opens the frontend app in the browser.
 

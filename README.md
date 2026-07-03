@@ -60,3 +60,6 @@ Browser (Chrome/Edge)
 
 ## OUTPUT:
 
+<img width="1387" height="752" alt="Image" src="https://github.com/user-attachments/assets/35aed5ff-3228-46de-9c9b-baea791f9752" />
+
+<img width="916" height="759" alt="Image" src="https://github.com/user-attachments/assets/875d0618-54d4-4e7b-bb91-adaefec67bd5" />

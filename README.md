@@ -1,12 +1,14 @@
  ## REAL-TIME CHAT APPLICATION
 
- COMPANY: CODTECH IT SOLUTIONS
+  COMPANY: CODTECH IT SOLUTIONS
 
   NAME: KONCHADA AMRUTHA VALLI
 
   DOMAIN: FRONT END WEB DEVELOPMENT
 
- DURATION: 8 WEEEKS
+  DURATION: 8 WEEEKS
+
+  INTERN ID: CTIS9988
 
 ## DESCRIPTION
 
@@ -29,20 +31,32 @@ Overall, this Real-Time Chat Application successfully demonstrates the implement
  ## Technologies Used
 
 ✅ Frontend:
-React.js – For building the dynamic and component-based user interface.
-HTML5/CSS3 – To structure and style the UI elements.
-JavaScript (ES6+) – For app logic, handling socket events, and managing state.
-WebSocket API – For maintaining persistent communication with the backend.
-✅ Backend:
-Node.js – JavaScript runtime used to build the backend server.
-Express.js – Web framework for building the API and socket server.
-ws (WebSocket Library) – Lightweight WebSocket implementation for Node.js.
-✅ Platforms/Tools:
-Visual Studio Code – Primary code editor used for both frontend and backend.
-Git & GitHub – Version control and repository hosting.
-PowerShell / Command Line – For terminal-based development and Git operations.
-Browser (Chrome/Edge) – For testing the user interface and functionality.
 
+React.js 
+
+HTML5/CSS3
+
+JavaScript (ES6+) 
+
+WebSocket API 
+
+✅ Backend:
+
+Node.js 
+
+Express.js 
+
+ws (WebSocket Library)
+
+✅ Platforms/Tools:
+
+Visual Studio Code 
+
+Git & GitHub
+
+PowerShell / Command Line 
+
+Browser (Chrome/Edge)
 
 
 
